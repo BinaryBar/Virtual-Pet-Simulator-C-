@@ -1,2 +1,14 @@
-# Virtual-Pet-Simulator-C-
-Take care of a digital pet by feeding it, playing, and checking its mood. A simple yet adorable simulation game.
+# 🐾 Virtual Pet Simulator (C++)
+
+A fun console-based simulation where you take care of a virtual pet by feeding it and playing with it.
+
+### 📚 Concepts Used:
+- Classes & Objects
+- Methods
+- Conditional logic
+- Simple game logic
+
+### 🚀 How to Run:
+```bash
+g++ virtual_pet.cpp -o pet
+./pet
